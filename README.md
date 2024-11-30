@@ -39,4 +39,4 @@ The dataset should include the following columns:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/loan-approval-svm.git
+   git clone https://github.com/nikhilyedelli/LOAN-APPROVAL-BY-SVM
